@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"lib": ["ES2020", "DOM", "DOM.Iterable"],
+		"noEmit": true,
+		"checkJs": true
+	},
+	"include": ["**/*.js"]
+}
